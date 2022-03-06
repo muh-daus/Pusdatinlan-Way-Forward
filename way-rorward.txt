@@ -6,3 +6,4 @@ Agile Aplication Development
 - A series of Testing and revision (STLC) must be excercised consistently involving owner based on an initial prototype
 - A Quality Control mechanism must be inplace involving owner to ensure application is in line with initial agreed requirements and design 
 - Deployment  & delivery must be made official to signal the end of the application lifecyle
+Any further requirement must be put on a separate note for next cycle of development (outside the boundry of the current project 
