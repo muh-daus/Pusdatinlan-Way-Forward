@@ -1,0 +1,7 @@
+Always Have a Plan and Purpose
+Don't Forget About Accessibility
+Always Keep the User Experience in Mind
+Don't Deviate Too Far from Established Standards
+Keep Code Concise and Useful
+Consider Compatibility Across Multiple Devices
+Don't Mix HTML With CSS or JavaScript
